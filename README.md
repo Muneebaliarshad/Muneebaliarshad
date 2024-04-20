@@ -8,7 +8,7 @@
 [![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muneeb-ali-arshad/)][linkedin]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aneeqakhan&label=Profile%20views&color=0e75b6&style=flat" alt="Muneebaliarshad" /> </p>
 
-- 👨‍💻 &ensp; iOS Developer at [Rockville Technologies][rockville]
+- 👨‍💻 &ensp; iOS Developer with 8 years of experiance working at **Seven Peaks Software (Thailand)**
 - 🌱 &ensp; I’m currently learning **CleanSwift, Combine**
 - 💬 &ensp; Ask me about **Swift, iOS Development**
 - 📫 &ensp; How to reach me: [**Email**][email]
@@ -29,5 +29,4 @@
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%MuneebAliArshad&screen_name=MuneebAliArshad
 [linkedin]: https://linkedin.com/in/muneeb-ali-arshad
 [github]: https://github.com/Muneebaliarshad
-[rockville]: https://rockvilletech.com
 [email]: mailto:ali.muneeb93@gmail.com
