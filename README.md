@@ -15,9 +15,17 @@
 
 
 ## Languages and Tools
-<img align="left" alt=“Xcode” width="26px" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" />
-<img align="left" alt=“Swift” width="26px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />
-<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt=“Swift” width="26px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"/>
+
+<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
+<img align="left" alt=“Android” width="26px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"/>
+
+<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
+<img align="left" alt=“Git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+
+<img align="left" alt=“Xcode” width="26px" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg"/>
+<img align="left" alt=“Figma” width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+<img align="left" alt=“Postman” width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 
 
 <br/><br/><br/>
